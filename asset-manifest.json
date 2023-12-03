@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/panam-pizza/static/css/main.fcce0332.css",
-    "main.js": "/panam-pizza/static/js/main.8f9dd3e2.js",
+    "main.js": "/panam-pizza/static/js/main.6a366cce.js",
     "index.html": "/panam-pizza/index.html",
     "main.fcce0332.css.map": "/panam-pizza/static/css/main.fcce0332.css.map",
-    "main.8f9dd3e2.js.map": "/panam-pizza/static/js/main.8f9dd3e2.js.map"
+    "main.6a366cce.js.map": "/panam-pizza/static/js/main.6a366cce.js.map"
   },
   "entrypoints": [
     "static/css/main.fcce0332.css",
-    "static/js/main.8f9dd3e2.js"
+    "static/js/main.6a366cce.js"
   ]
 }
