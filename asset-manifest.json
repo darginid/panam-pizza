@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/panam-pizza/static/css/main.fcce0332.css",
+    "main.js": "/panam-pizza/static/js/main.8cc0ba09.js",
+    "index.html": "/panam-pizza/index.html",
+    "main.fcce0332.css.map": "/panam-pizza/static/css/main.fcce0332.css.map",
+    "main.8cc0ba09.js.map": "/panam-pizza/static/js/main.8cc0ba09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcce0332.css",
+    "static/js/main.8cc0ba09.js"
+  ]
+}
